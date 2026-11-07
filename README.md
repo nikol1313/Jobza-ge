@@ -1,6 +1,6 @@
 <div align="center">
   
-# ModzebnAI
+# Jobza
 
 ![frontend](https://img.shields.io/badge/frontend-React-61DAFB?logo=react&logoColor=white)
 ![backend](https://img.shields.io/badge/backend-Node.js-5FA04E?logo=nodedotjs&logoColor=white)
@@ -10,7 +10,7 @@
 ![docker](https://img.shields.io/badge/docker-compose-2496ED?logo=docker&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-LLM-8A2BE2)
 
-🌐 [modzebnai.ge](https://...)
+🌐 [Jobza.ge](https://...)
 
 **An AI-powered job radar for the Georgian job market**
 
@@ -51,7 +51,7 @@ jobs.ge, hr.ge, …  →  Scrapers  →  PostgreSQL  →  AI Scoring  →  Email
 ## Project Structure
 
 ```
-modzebnai/
+Jobza/
 ├── backend/          
 ├── frontend/           
 ├── scrapers/           
